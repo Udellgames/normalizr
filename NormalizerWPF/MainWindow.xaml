@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:NormalMapMaker"
         mc:Ignorable="d"
-        Title="MainWindow" Height="550" Width="525">
+        Title="Normalizr" Height="480" Width="325">
     <Grid>
         <StackPanel>
             <Image x:Name="LoadedImage" Height="200"></Image>
