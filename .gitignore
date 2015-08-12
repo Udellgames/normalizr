@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/NormalizerWPF/bin/Debug
+/NormalizerWPF/obj/Debug
+/NormalizrCore/obj/Debug
