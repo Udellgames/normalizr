@@ -1,7 +1,7 @@
 # Normalizr
 Quick and easy normal map generation.
 
-#Features
+## Features
 * Quick normal map generation
 * Respect for alpha values
 * Easily extendable
